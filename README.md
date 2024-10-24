@@ -1,20 +1,20 @@
-Deploy a web server on an AWS EC2 instance, configure SSH connectivity between instances,
+- Deploy a web server on an AWS EC2 instance, configure SSH connectivity between instances,
 and automate the hosting process using a shell script 
 
           1st.task  AWS Setup and Instance Management:
 - Launch two t2.micro EC2 instances using different operating systems (Amazon Linux and
 Ubuntu).
-1  instance is amazone linux os and instance name server 1
+- 1  instance is amazone linux os and instance name server 1
   ![Screenshot 2024-10-24 112814](https://github.com/user-attachments/assets/676aac5e-6a94-476f-b753-18324d6d84af)
-after name choose AMI
+- after name choose AMI
 ![Screenshot 2024-10-24 112835](https://github.com/user-attachments/assets/71091716-9812-4745-b2b2-f827c3b44ee7)
-choose instance type t2.micro and create key(SECRET-KEY)
+- choose instance type t2.micro and create key(SECRET-KEY)
 ![Screenshot 2024-10-24 112904](https://github.com/user-attachments/assets/166b00bd-8731-481a-bc7d-bf673dd9d8d6)
-and after create network setting(defult network) and configure storage 8gb and launch instance 
+- and after create network setting(defult network) and configure storage 8gb and launch instance 
 ![Screenshot 2024-10-24 113235](https://github.com/user-attachments/assets/af8d0385-f50b-44bc-a22f-da44949d16a4)
 
-2 instance choose os is ubuntu and instance name is server 2
-after same work 
+- 2 instance choose os is ubuntu and instance name is server 2
+- after same work 
 
 ![Screenshot 2024-10-24 113127](https://github.com/user-attachments/assets/0020efe2-39b0-4de7-af22-06db1dc69452)
 ![Screenshot 2024-10-24 113202](https://github.com/user-attachments/assets/f977001d-266f-4ef6-9fd3-a53454a30513)
@@ -26,7 +26,7 @@ after same work
 
 
 
-                          2nd TASK IS Instance Management:
+-                         2nd TASK IS Instance Management:
 - Start, stop, restart, and terminate EC2 instances.
 
 
@@ -58,10 +58,11 @@ after same work
 
 
              3rd task is SSH Configuration & Connectivity
-  Set up SSH key pairs to allow secure connection
-  launch instance section and create new key (SERVER-KEY)
+ -
+ -   Set up SSH key pairs to allow secure connection
+ - launch instance section and create new key (SERVER-KEY)
  ![Screenshot 2024-10-24 182244](https://github.com/user-attachments/assets/3fe39b01-4170-459a-a9e6-0f483906e1c8)
-  Connect to both instances from your local machine using SSH.
+ - Connect to both instances from your local machine using SSH.
 - 1st session for amazon linux in my cmd  ![Screenshot 2024-10-24 122446](https://github.com/user-attachments/assets/0d870a7c-2edf-4d2a-851e-562c87fb1bf4)
 ![Screenshot 2024-10-24 122533](https://github.com/user-attachments/assets/7506ae58-a873-40ba-8369-2b3b47cf4081)
 - 2nd for ubnutu ![Screenshot 2024-10-24 185337](https://github.com/user-attachments/assets/be040ca1-9790-4ae7-849e-945820709470)
@@ -93,7 +94,11 @@ after same work
 
 
 
--
+- 5th. Cross-Instance Web Access:
+- From the EC2 instance without the web server, access the "Hello World" page hosted on the
+other instance.
+- Use curl or wget from the non-web server instance to fetch the pag
+- ![Screenshot 2024-10-24 163904](https://github.com/user-attachments/assets/0f01be98-e593-4bf9-84dd-5d2141541223)
 
 
 
