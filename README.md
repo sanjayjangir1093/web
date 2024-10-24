@@ -13,5 +13,11 @@ choose instance type t2.micro and create key
 and after create network setting(defult network) and configure storage 8gb and launch instance 
 ![Screenshot 2024-10-24 113235](https://github.com/user-attachments/assets/af8d0385-f50b-44bc-a22f-da44949d16a4)
 
-2 instance ubuntu and instance name server 2
-same work on this instance 
+2 instance choose os is ubuntu and instance name is server 2
+same work in instance 
+
+![Screenshot 2024-10-24 113127](https://github.com/user-attachments/assets/0020efe2-39b0-4de7-af22-06db1dc69452)
+![Screenshot 2024-10-24 113202](https://github.com/user-attachments/assets/f977001d-266f-4ef6-9fd3-a53454a30513)
+![Screenshot 2024-10-24 113235](https://github.com/user-attachments/assets/10bb0545-a871-4cef-b956-62094d09cdaf)
+![Screenshot 2024-10-24 113255](https://github.com/user-attachments/assets/8406ddcd-0718-443f-bde8-d20db9087738)
+![Screenshot 2024-10-24 121824](https://github.com/user-attachments/assets/01b7150d-ef0c-4834-a559-61987363f73d)
