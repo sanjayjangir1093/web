@@ -105,6 +105,9 @@ Ubuntu).
 
 
 - 6th task is Automation:
+- write script
+- ![image](https://github.com/user-attachments/assets/4bf02b31-f8b9-4cb9-b325-f749e9f1720f)
+
 - ![Screenshot 2024-10-24 171857](https://github.com/user-attachments/assets/c2a52684-da32-4529-8179-f52fe005b3c4)
 - ![Screenshot 2024-10-24 164937](https://github.com/user-attachments/assets/dbf12c6a-6c27-47fb-9df6-21f204967999)
 
