@@ -23,18 +23,22 @@ after same work
 ![Screenshot 2024-10-24 121824](https://github.com/user-attachments/assets/01b7150d-ef0c-4834-a559-61987363f73d)
 
 
-![Screenshot 2024-10-24 120923](https://github.com/user-attachments/assets/07637a48-75d3-456e-b428-6e6851b93d44)
 
 
 
                           2TASK IS Instance Management:
 - Start, stop, restart, and terminate EC2 instances.
 
-- START INSTANCE ![Screenshot 2024-10-24 180546](https://github.com/user-attachments/assets/e573c421-c8ce-4144-91f8-f6089f3e3b8d)
+
+- START INSTANCE ![Screenshot 2024-10-24 181121](https://github.com/user-attachments/assets/be155216-9922-4e15-b02b-4b2ab5ddd6e2)
+
+- ![Screenshot 2024-10-24 180546](https://github.com/user-attachments/assets/e573c421-c8ce-4144-91f8-f6089f3e3b8d)
 
 
 - STOP INSTANCE ![Screenshot 2024-10-24 120923](https://github.com/user-attachments/assets/83bdf55d-9bc1-4e81-9c37-246aa0301ed2)
-- 
+
+- ![Screenshot 2024-10-24 181019](https://github.com/user-attachments/assets/6ec867e4-988b-40c3-8f68-edcea499436d)
+
 
 
 - RESTART INSTANCE ![Screenshot 2024-10-24 120847](https://github.com/user-attachments/assets/2a86368e-a302-4b79-80b0-7f50f1039da1)
