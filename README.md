@@ -62,14 +62,14 @@ after same work
   launch instance section and create new key (SERVER-KEY)
  ![Screenshot 2024-10-24 182244](https://github.com/user-attachments/assets/3fe39b01-4170-459a-a9e6-0f483906e1c8)
   Connect to both instances from your local machine using SSH.
-  1st session for amazon linux in my cmd  ![Screenshot 2024-10-24 122446](https://github.com/user-attachments/assets/0d870a7c-2edf-4d2a-851e-562c87fb1bf4)
+- 1st session for amazon linux in my cmd  ![Screenshot 2024-10-24 122446](https://github.com/user-attachments/assets/0d870a7c-2edf-4d2a-851e-562c87fb1bf4)
 ![Screenshot 2024-10-24 122533](https://github.com/user-attachments/assets/7506ae58-a873-40ba-8369-2b3b47cf4081)
- 2nd for ubutu![Screenshot 2024-10-24 122715](https://github.com/user-attachments/assets/f94aaa00-5151-4346-9a26-7d70562df924)
+ 2nd for ubnutu![Screenshot 2024-10-24 122715](https://github.com/user-attachments/assets/f94aaa00-5151-4346-9a26-7d70562df924)
 - Configure security group (HTTP,HTTPS and ICMP)
 - ![Screenshot 2024-10-24 122858](https://github.com/user-attachments/assets/4594f508-9cd8-4772-b1bb-e7c964805357)
-  PING LINUX TO UBUNTU USE PRIVATE IP
+  PING CHECK CONNECTIVITY BOTH INATANCE LINUX TO UBUNTU USE PRIVATE IP
   ![Screenshot 2024-10-24 123059](https://github.com/user-attachments/assets/7d1f4ef0-8a93-41c4-82c1-44a4df761149)
-  PING CHECK CONNECTIVITY UBUNTU TO LINUX PRUVATE IP
+  PING CHECK CONNECTIVITY BOTH INATANCE UBUNTU TO LINUX PRUVATE IP
   ![Screenshot 2024-10-24 123212](https://github.com/user-attachments/assets/4a032472-431d-4a3c-bcf5-6c5cff8ffdb2)
 
 
