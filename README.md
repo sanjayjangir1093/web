@@ -1,7 +1,7 @@
 Deploy a web server on an AWS EC2 instance, configure SSH connectivity between instances,
 and automate the hosting process using a shell script 
 
-1.task  AWS Setup and Instance Management:
+          1st.task  AWS Setup and Instance Management:
 - Launch two t2.micro EC2 instances using different operating systems (Amazon Linux and
 Ubuntu).
 1  instance is amazone linux os and instance name server 1
@@ -26,7 +26,7 @@ after same work
 
 
 
-                          2TASK IS Instance Management:
+                          2nd TASK IS Instance Management:
 - Start, stop, restart, and terminate EC2 instances.
 
 
@@ -49,9 +49,27 @@ after same work
 
 
 
-- TERMINATE INSTANCE ![Screenshot 2024-10-24 181626](https://github.com/user-attachments/assets/c895a0d0-20a3-4140-9160-a839bdf5a26d)
+- TERMINATE INSTANCE ![Screenshot 2024-10-24 120949](https://github.com/user-attachments/assets/f95d61ce-800e-4716-878b-53542ad7a6ee)
+ ![Screenshot 2024-10-24 181626](https://github.com/user-attachments/assets/c895a0d0-20a3-4140-9160-a839bdf5a26d)
 
-- ![Screenshot 2024-10-24 120949](https://github.com/user-attachments/assets/f95d61ce-800e-4716-878b-53542ad7a6ee)
 
+
+
+
+
+             3rd task is SSH Configuration & Connectivity
+  Set up SSH key pairs to allow secure connection
+  launch instance section and create new key (SERVER-KEY)
+ ![Screenshot 2024-10-24 182244](https://github.com/user-attachments/assets/3fe39b01-4170-459a-a9e6-0f483906e1c8)
+  Connect to both instances from your local machine using SSH.
+  1st session for amazon linux in my cmd  ![Screenshot 2024-10-24 122446](https://github.com/user-attachments/assets/0d870a7c-2edf-4d2a-851e-562c87fb1bf4)
+![Screenshot 2024-10-24 122533](https://github.com/user-attachments/assets/7506ae58-a873-40ba-8369-2b3b47cf4081)
+ 2nd for ubutu![Screenshot 2024-10-24 122715](https://github.com/user-attachments/assets/f94aaa00-5151-4346-9a26-7d70562df924)
+- Configure security group (HTTP,HTTPS and ICMP)
+- ![Screenshot 2024-10-24 122858](https://github.com/user-attachments/assets/4594f508-9cd8-4772-b1bb-e7c964805357)
+  PING LINUX TO UBUNTU USE PRIVATE IP
+  ![Screenshot 2024-10-24 123059](https://github.com/user-attachments/assets/7d1f4ef0-8a93-41c4-82c1-44a4df761149)
+  PING CHECK CONNECTIVITY UBUNTU TO LINUX PRUVATE IP
+  ![Screenshot 2024-10-24 123212](https://github.com/user-attachments/assets/4a032472-431d-4a3c-bcf5-6c5cff8ffdb2)
 
 
