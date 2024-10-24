@@ -95,11 +95,18 @@ Ubuntu).
 
 
 - 5th. Cross-Instance Web Access:
-- From the EC2 instance without the web server, access the "Hello World" page hosted on the
-other instance.
-- Use curl or wget from the non-web server instance to fetch the pag
+- Use curl or wget 
+- my web server is running in server 2 instance and i'm working in server 1 instance, this server 1 instance in not running web server
+- using command curl http://private ip
+- wget http://private ip
 - ![Screenshot 2024-10-24 163904](https://github.com/user-attachments/assets/0f01be98-e593-4bf9-84dd-5d2141541223)
 
+
+
+
+- 6th task is Automation:
+- ![Screenshot 2024-10-24 171857](https://github.com/user-attachments/assets/c2a52684-da32-4529-8179-f52fe005b3c4)
+- ![Screenshot 2024-10-24 164937](https://github.com/user-attachments/assets/dbf12c6a-6c27-47fb-9df6-21f204967999)
 
 
 
