@@ -73,3 +73,24 @@ after same work
   ![Screenshot 2024-10-24 123212](https://github.com/user-attachments/assets/4a032472-431d-4a3c-bcf5-6c5cff8ffdb2)
 
 
+             4th task is install web server
+  - install nginx and apache2 server
+  - before install update instance use command sudo apt update after use command apt install nginx -y && sudo apt install apache2 -y
+  - ![Screenshot 2024-10-24 125122](https://github.com/user-attachments/assets/da295fdb-85fd-42cc-abcd-5d6e60bd7d1a)
+  - ![Screenshot 2024-10-24 125530](https://github.com/user-attachments/assets/9e1061dd-d01a-459e-a956-0069ed49ffaf)
+  - check version
+  - ![Screenshot 2024-10-24 125642](https://github.com/user-attachments/assets/dfff428e-2ea0-41f4-9341-45ff343135a2)
+  - start service (sudo systemctl start and check status)
+  - ![Screenshot 2024-10-24 130052](https://github.com/user-attachments/assets/44cedea4-4874-42e1-86c3-238d1e24ec76)
+  -  Create a simple HTML web page with text "Hello World"
+  -  ![Screenshot 2024-10-24 160044](https://github.com/user-attachments/assets/f283ebf3-f2e5-4782-90a9-36bd822a7ee9)
+  -  ![Screenshot 2024-10-24 160148](https://github.com/user-attachments/assets/33261c52-8c41-40d1-b641-90681e64b8b9)
+  -  ![Screenshot 2024-10-24 160204](https://github.com/user-attachments/assets/39505705-1593-4cec-a9bd-4a1ed55010cc)
+  -  ![Screenshot 2024-10-24 160313](https://github.com/user-attachments/assets/e4127038-7871-4b80-aa44-9d6fcab7ce38)
+
+
+
+
+
+
+
