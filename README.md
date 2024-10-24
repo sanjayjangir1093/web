@@ -64,7 +64,9 @@ after same work
   Connect to both instances from your local machine using SSH.
 - 1st session for amazon linux in my cmd  ![Screenshot 2024-10-24 122446](https://github.com/user-attachments/assets/0d870a7c-2edf-4d2a-851e-562c87fb1bf4)
 ![Screenshot 2024-10-24 122533](https://github.com/user-attachments/assets/7506ae58-a873-40ba-8369-2b3b47cf4081)
- 2nd for ubnutu![Screenshot 2024-10-24 122715](https://github.com/user-attachments/assets/f94aaa00-5151-4346-9a26-7d70562df924)
+- 2nd for ubnutu ![Screenshot 2024-10-24 185337](https://github.com/user-attachments/assets/be040ca1-9790-4ae7-849e-945820709470)
+
+- ![Screenshot 2024-10-24 122715](https://github.com/user-attachments/assets/f94aaa00-5151-4346-9a26-7d70562df924)
 - Configure security group (HTTP,HTTPS and ICMP)
 - ![Screenshot 2024-10-24 122858](https://github.com/user-attachments/assets/4594f508-9cd8-4772-b1bb-e7c964805357)
   PING CHECK CONNECTIVITY BOTH INATANCE LINUX TO UBUNTU USE PRIVATE IP
@@ -87,6 +89,11 @@ after same work
   -  ![Screenshot 2024-10-24 160148](https://github.com/user-attachments/assets/33261c52-8c41-40d1-b641-90681e64b8b9)
   -  ![Screenshot 2024-10-24 160204](https://github.com/user-attachments/assets/39505705-1593-4cec-a9bd-4a1ed55010cc)
   -  ![Screenshot 2024-10-24 160313](https://github.com/user-attachments/assets/e4127038-7871-4b80-aa44-9d6fcab7ce38)
+ 
+
+
+
+-
 
 
 
