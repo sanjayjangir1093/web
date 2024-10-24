@@ -41,11 +41,17 @@ after same work
 
 
 
-- RESTART INSTANCE ![Screenshot 2024-10-24 120847](https://github.com/user-attachments/assets/2a86368e-a302-4b79-80b0-7f50f1039da1)
+
+- RESTART INSTANCE ![Screenshot 2024-10-24 181511](https://github.com/user-attachments/assets/cdf492d3-5c68-440f-94a7-1f8c9de88a10)
+
+- ![Screenshot 2024-10-24 120847](https://github.com/user-attachments/assets/2a86368e-a302-4b79-80b0-7f50f1039da1)
 - 
 
 
-- TERMINATE INSTANCE ![Screenshot 2024-10-24 120949](https://github.com/user-attachments/assets/f95d61ce-800e-4716-878b-53542ad7a6ee)
+
+- TERMINATE INSTANCE ![Screenshot 2024-10-24 181626](https://github.com/user-attachments/assets/c895a0d0-20a3-4140-9160-a839bdf5a26d)
+
+- ![Screenshot 2024-10-24 120949](https://github.com/user-attachments/assets/f95d61ce-800e-4716-878b-53542ad7a6ee)
 
 
 
