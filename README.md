@@ -1,7 +1,7 @@
 - Deploy a web server on an AWS EC2 instance, configure SSH connectivity between instances,
 and automate the hosting process using a shell script
 
-- my public ip 13.209.16.198 
+- my public ip 13.209.16.198 (open in incoginito window)
 
           1st.task  AWS Setup and Instance Management:
 - Launch two t2.micro EC2 instances using different operating systems (Amazon Linux and
